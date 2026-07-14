@@ -1,0 +1,53 @@
+p{
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: white;
+}
+
+h1{
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: white;
+}
+
+#a{
+    font-family:"Cormorant Garamond", serif;
+    font-weight:bolder;
+    color:white;
+}
+
+body{
+
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url("videobackground.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+
+}
+
+table{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+th{
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: white;
+
+}
+td{
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: white;
+    border: 1px solid white;
+}
+a{
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: Purple;
+}
